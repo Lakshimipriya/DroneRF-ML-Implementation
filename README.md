@@ -1,4 +1,4 @@
-# DroneRF ML Implementation
+# PERFORMANCE EVALUATION OF MACHINE-LEARNING TECHNIQUES FOR RF-BASED DRONE DETECTION AND IDENTIFICATION USING THE DRONERF DATASET
 
 A **local implementation and study** of machine-learning techniques for **RF-based drone detection and identification** using the **DroneRF dataset**.
 
